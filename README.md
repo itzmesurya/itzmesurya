@@ -19,10 +19,6 @@ architecture.
   reference for the platform decisions Principal Engineers get
   asked about in interviews. *(Repo going public soon.)*
 
-#### Learning in public
-- Go, from a .NET background
-- Azure Solutions Architect Expert (AZ-305)
-
 #### Reach out
 - [LinkedIn](https://linkedin.com/in/itzmesurya)
 - itzmesurya@gmail.com
