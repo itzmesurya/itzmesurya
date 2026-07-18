@@ -1,16 +1,28 @@
-## Under contruction!
+### Kolluri Suryanarayana
+**Kubernetes Platform Architect · Hybrid Cloud · Data Resilience**
 
-<!--
-**itzmesurya/itzmesurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Lead at NetApp. I work at the seam where Kubernetes,
+storage fabrics, and stateful workloads meet — architecting
+DRaaS on VMware and Trident Protect on Kubernetes for
+application-consistent recovery in the 2–30 minute range.
 
-Here are some ideas to get you started:
+15+ years across enterprise infrastructure and SaaS. Earlier
+career in full-stack .NET; now Go, Kubernetes, and platform
+architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Currently building
+- **Order Management System** — production-grade Go microservices
+  on k3s: Kafka event streaming, Postgres + Redis, Prometheus and
+  Grafana observability, GitHub Actions CI/CD. Built as a working
+  reference for the platform decisions Principal Engineers get
+  asked about in interviews. *(Repo going public soon.)*
+
+#### Learning in public
+- Go, from a .NET background
+- Azure Solutions Architect Expert (AZ-305)
+
+#### Reach out
+- [LinkedIn](https://linkedin.com/in/itzmesurya)
+- itzmesurya@gmail.com
